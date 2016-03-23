@@ -1,0 +1,16 @@
+ej.datavisualization.Diagram.Locale["hr-HR"] = {
+cut: "Rez",
+copy: "Kopirati",
+paste: "Zalijepiti",
+undo: "otkopčati",
+redo: "preurediti",
+selectAll: "Odaberi sve",
+grouping: "Grupiranje",
+group: "Skupina",
+ungroup: "Razgrupiranje",
+order: "Narudžba",
+bringToFront: "Donijeti Front",
+moveForward: "Kreni naprijed",
+sendBackward: "Pošalji unazad",
+sendToBack: "Pošalji na sigurnosnu",
+};

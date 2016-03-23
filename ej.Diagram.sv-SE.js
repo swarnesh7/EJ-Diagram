@@ -1,0 +1,16 @@
+ej.datavisualization.Diagram.Locale["sv-SE"] = {
+cut: "Skära",
+copy: "Kopiera",
+paste: "Klistra",
+undo: "Ångra",
+redo: "Göra om",
+selectAll: "Välj alla",
+grouping: "gruppering",
+group: "Grupp",
+ungroup: "Dela upp",
+order: "Beställa",
+bringToFront: "Längst fram",
+moveForward: "Gå framåt",
+sendBackward: "Skicka bakåt",
+sendToBack: "Skicka tillbaka",
+};

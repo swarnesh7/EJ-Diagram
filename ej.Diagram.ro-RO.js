@@ -1,0 +1,16 @@
+ej.datavisualization.Diagram.Locale["ro-RO"] = {
+cut: "A taia",
+copy: "Copie",
+paste: "Pastă",
+undo: "Anula",
+redo: "refaceţi",
+selectAll: "Selectează tot",
+grouping: "gruparea",
+group: "grup",
+ungroup: "Degrupați",
+order: "Ordin",
+bringToFront: "Se aduce la Front",
+moveForward: "Mergi inainte",
+sendBackward: "trimiteţi în spate",
+sendToBack: "Send to back",
+};

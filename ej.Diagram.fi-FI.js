@@ -1,0 +1,16 @@
+ej.datavisualization.Diagram.Locale["fi-FI"] = {
+cut: "Leikata",
+copy: "Kopioida",
+paste: "tahna",
+undo: "purkaa",
+redo: "tehdä uudelleen",
+selectAll: "Valitse kaikki",
+grouping: "ryhmittymä",
+group: "Ryhmä",
+ungroup: "Pura",
+order: "Tilata",
+bringToFront: "Tuo eteen",
+moveForward: "Liiku eteenpäin",
+sendBackward: "Siirrä taaksepäin",
+sendToBack: "Vie taakse",
+};

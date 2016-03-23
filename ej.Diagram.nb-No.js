@@ -1,0 +1,16 @@
+ej.datavisualization.Diagram.Locale["nb-No"] = {
+cut: "Cut",
+copy: "Salinan",
+paste: "paste",
+undo: "Buat asal",
+redo: "Buat semula",
+selectAll: "Pilih semua",
+grouping: "Grouping",
+group: "Kumpulan",
+ungroup: "Leraikan",
+order: "Order",
+bringToFront: "Bawa ke hadapan",
+moveForward: "Bergerak ke hadapan",
+sendBackward: "menghantar ke belakang",
+sendToBack: "Hantar ke Belakang",
+};

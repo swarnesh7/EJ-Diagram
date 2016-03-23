@@ -1,0 +1,16 @@
+ej.datavisualization.Diagram.Locale["fa-IR"] = {
+cut: "برش",
+copy: "نسخه",
+paste: "خمیر",
+undo: "باطل کردن",
+redo: "ازنو",
+selectAll: "انتخاب همه",
+grouping: "گروه بندی",
+group: "گروه",
+ungroup: "حالت گروه خارج",
+order: "سفارش",
+bringToFront: "را به جلو",
+moveForward: "به جلو حرکت کن",
+sendBackward: "ارسال به سمت عقب",
+sendToBack: "ارسال به عقب",
+};

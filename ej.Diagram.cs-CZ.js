@@ -1,0 +1,16 @@
+ej.datavisualization.Diagram.Locale["cs-CZ"] = {
+cut: "Střih",
+copy: "Kopírovat",
+paste: "Vložit",
+undo: "rozepnout",
+redo: "Předělat",
+selectAll: "Vybrat vše",
+grouping: "seskupení",
+group: "Skupina",
+ungroup: "Oddělit",
+order: "Objednat",
+bringToFront: "Přenést do popředí",
+moveForward: "Pohyb vpřed",
+sendBackward: "Přenést dál",
+sendToBack: "Přenést do pozadí",
+};

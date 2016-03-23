@@ -1,0 +1,16 @@
+ej.datavisualization.Diagram.Locale["en-US"] = {
+cut: "Cut",
+copy: "Copy",
+paste: "Paste",
+undo: "Undo",
+redo: "Redo",
+selectAll: "Select All",
+grouping: "Grouping",
+group: "Group",
+ungroup: "Ungroup",
+order: "Order",
+bringToFront: "Bring To Front",
+moveForward: "Move Forward",
+sendBackward: "Send Backward",
+sendToBack: "Send To Back",
+};
