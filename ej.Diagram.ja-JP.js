@@ -1,0 +1,16 @@
+ej.datavisualization.Diagram.Locale["ja-JP"] = {
+cut: "カット",
+copy: "コピー",
+paste: "ペースト",
+undo: "アンドゥ",
+redo: "やり直します",
+selectAll: "すべて選択",
+grouping: "グルーピング",
+group: "グループ",
+ungroup: "グループ解除",
+order: "注文",
+bringToFront: "前に持ってくる",
+moveForward: "前進します",
+sendBackward: "背面へ",
+sendToBack: "背面へ移動",
+};

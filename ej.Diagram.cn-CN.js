@@ -1,0 +1,16 @@
+ej.datavisualization.Diagram.Locale["cn-CN"] = {
+cut: "Cắt tỉa",
+copy: "bản sao",
+paste: "dán",
+undo: "Hủy bỏ",
+redo: "Làm lại",
+selectAll: "Chọn tất cả",
+grouping: "nhóm",
+group: "Nhóm",
+ungroup: "Ungroup",
+order: "Gọi món",
+bringToFront: "Mang ra phía trước",
+moveForward: "Tiến về phía trước",
+sendBackward: "Gửi trở lại",
+sendToBack: "Chuyển về sau",
+};

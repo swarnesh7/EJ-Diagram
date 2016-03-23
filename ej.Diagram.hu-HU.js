@@ -1,0 +1,16 @@
+ej.datavisualization.Diagram.Locale["hu-HU"] = {
+cut: "Vágott",
+copy: "Másolat",
+paste: "Paszta",
+undo: "kibont",
+redo: "Újra",
+selectAll: "Mindet kiválaszt",
+grouping: "Csoportosítás",
+group: "Csoport",
+ungroup: "Csoportbontás",
+order: "Rendelés",
+bringToFront: "Előre hoz",
+moveForward: "Menj tovább",
+sendBackward: "Hátrébb küldés",
+sendToBack: "Visszaküldeni",
+};

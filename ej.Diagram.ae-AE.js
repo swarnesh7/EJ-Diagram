@@ -1,0 +1,16 @@
+ej.datavisualization.Diagram.Locale["ae-AE"] = {
+cut: "قطع",
+copy: "نسخ",
+paste: "معجون",
+undo: "فك",
+redo: "فعل ثانية",
+selectAll: "اختر الكل",
+grouping: "تجمع",
+group: "تجمع",
+ungroup: "فك التجميع",
+order: "طلب",
+bringToFront: "اجلب للمقدمة",
+moveForward: "التحرك إلى الأمام",
+sendBackward: "إرسال إلى الخلف",
+sendToBack: "إرسال إلى الخلف",
+};

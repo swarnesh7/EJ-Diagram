@@ -1,0 +1,16 @@
+ej.datavisualization.Diagram.Locale["ko-KR"] = {
+cut: "절단",
+copy: "부",
+paste: "풀",
+undo: "끄르다",
+redo: "다시 하다",
+selectAll: "모두 선택",
+grouping: "그룹화",
+group: "그룹",
+ungroup: "그룹 해제",
+order: "주문",
+bringToFront: "앞으로 가져 오기",
+moveForward: "앞으로가",
+sendBackward: "뒤로 보내기",
+sendToBack: "뒤로 보내기",
+};

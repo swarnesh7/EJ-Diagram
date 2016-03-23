@@ -1,0 +1,16 @@
+ej.datavisualization.Diagram.Locale["nl-NL"] = {
+cut: "Besnoeiing",
+copy: "Kopiëren",
+paste: "Plakken",
+undo: "ongedaan maken",
+redo: "opnieuw",
+selectAll: "Selecteer alles",
+grouping: "Groepering",
+group: "Groep",
+ungroup: "degroeperen",
+order: "Bestellen",
+bringToFront: "Naar voren brengen",
+moveForward: "Move Forward",
+sendBackward: "Terug sturen",
+sendToBack: "Send To Back",
+};
